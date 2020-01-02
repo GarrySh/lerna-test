@@ -1,0 +1,7 @@
+{
+  "name": "lerna-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Garry Sh <sooo.lame@gmail.com>",
+  "license": "MIT"
+}
