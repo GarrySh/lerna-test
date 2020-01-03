@@ -1,6 +1,12 @@
 {
-  "name": "first",
+  "name": "@monorepo/first",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
